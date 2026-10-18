@@ -1,5 +1,13 @@
-## Hi there 👋
-
+<html>
+  <h1>自己紹介</h1>
+  <p>名前：有村啓伸<br></p>
+  <p>所属：鹿児島キャリアデザイン専門学校ITスペシャリスト科1年<br></p>
+  <p>持っているスキル：paizaのスキルチェックC問題（３問）<br></p>
+  <p>趣味：ゲーム（現在：転スラ【まおうりゅう】、ポケポケ、太鼓の達人)(過去：マインクラフトetc...)<br>
+  インスタグラム、（写真）、（読書）etc...</p>
+  <p>希望就職先：システム開発や、アプリ製作、プログラミングなどがある会社。</p>
+  
+</html>
 <!--
 **qishenyoucun-collab/qishenyoucun-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
